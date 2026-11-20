@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "email": "example@gmail.com",
+      "name": "ahmed mohamed",
+      "id": 1
+    },
+    {
+      "email": "user@gmail.com",
+      "password": "$2a$10$O.q2tOuMDwh9YCMNkkk7DuDhxHRmTxZqK2nJ0O5GxrL9eilL5JWtO",
+      "name": "omar mohamed",
+      "id": 2
+    },
+    {
+      "email": "ahmed@gmail.com",
+      "password": "$2a$10$oo.6Q6unMX1bwez/QED7IezoNBOqtiYT1YYZQjm/FWYJUflfS3PCO",
+      "name": "Ahmed",
+      "role": "User",
+      "status": "Active",
+      "createdAt": "2026-11-20T21:58:05.831Z",
+      "id": 3
+    }
+  ]
+}
